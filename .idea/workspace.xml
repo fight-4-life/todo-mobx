@@ -1,7 +1,49 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="afb73f8e-4ab1-49f9-8786-c52c49818ad7" name="Default Changelist" comment="" />
+    <list default="true" id="afb73f8e-4ab1-49f9-8786-c52c49818ad7" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/todo/src/components/TodoItem.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/todo/src/components/TodoList.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/todo/src/store/store.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/todo/.eslintcache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/todo/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/todo/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/todo/package-lock.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/todo/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/todo/public/favicon.ico" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/todo/public/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/todo/public/logo192.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/todo/public/logo512.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/todo/public/manifest.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/todo/public/robots.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/todo/src/App.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/todo/src/App.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/todo/src/App.test.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/todo/src/index.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/todo/src/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/todo/src/logo.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/todo/src/reportWebVitals.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/todo/src/setupTests.js" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -9,6 +51,12 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="JsFlowSettings">
+    <service-enabled>true</service-enabled>
+    <exe-path />
+    <other-services-enabled>true</other-services-enabled>
+    <auto-save>true</auto-save>
   </component>
   <component name="ProjectId" id="1l08ow4p0UhoKas7cI0BtsIMik8" />
   <component name="ProjectViewState">
@@ -21,6 +69,7 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="Settings.JavaScript" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
@@ -31,11 +80,52 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1606722828243</updated>
-      <workItem from="1606722829996" duration="1064000" />
+      <workItem from="1606722829996" duration="2210000" />
+      <workItem from="1606726119549" duration="222000" />
+      <workItem from="1606726507965" duration="887000" />
+      <workItem from="1606743130311" duration="1761000" />
     </task>
+    <task id="LOCAL-00001" summary="initial">
+      <created>1606725463862</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1606725463862</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="initial" />
+    <option name="LAST_COMMIT_MESSAGE" value="initial" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="458" y="183" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1606744204666">
+      <screen x="0" y="23" width="1440" height="813" />
+    </state>
+    <state x="458" y="183" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.23.1440.813@0.23.1440.813" timestamp="1606744204666" />
+    <state x="221" y="68" key="SettingsEditor" timestamp="1606726283847">
+      <screen x="0" y="23" width="1440" height="813" />
+    </state>
+    <state x="221" y="68" key="SettingsEditor/0.23.1440.813@0.23.1440.813" timestamp="1606726283847" />
+    <state x="450" y="318" key="vcs.readOnlyHandler.ReadOnlyStatusDialog" timestamp="1606727183558">
+      <screen x="0" y="23" width="1440" height="813" />
+    </state>
+    <state x="450" y="318" key="vcs.readOnlyHandler.ReadOnlyStatusDialog/0.23.1440.813@0.23.1440.813" timestamp="1606727183558" />
   </component>
 </project>
